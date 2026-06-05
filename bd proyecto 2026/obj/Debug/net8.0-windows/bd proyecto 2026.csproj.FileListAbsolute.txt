@@ -1,0 +1,28 @@
+D:\bd proyecto 2026\bin\Debug\net8.0-windows\bd proyecto 2026.exe
+D:\bd proyecto 2026\bin\Debug\net8.0-windows\Guna.UI2.dll
+D:\bd proyecto 2026\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\bd proyecto 2026\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\bd proyecto 2026\bin\Debug\net8.0-windows\MySqlConnector.dll
+D:\bd proyecto 2026\bin\Debug\net8.0-windows\System.Management.dll
+D:\bd proyecto 2026\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\bd proyecto 2026\obj\Debug\net8.0-windows\bd proyecto 2026.csproj.AssemblyReference.cache
+D:\bd proyecto 2026\obj\Debug\net8.0-windows\bd_proyecto_2026.EmpleadoForm.resources
+D:\bd proyecto 2026\obj\Debug\net8.0-windows\bd_proyecto_2026.InicioForm.resources
+D:\bd proyecto 2026\obj\Debug\net8.0-windows\bd_proyecto_2026.frmMenuPrincipal.resources
+D:\bd proyecto 2026\obj\Debug\net8.0-windows\bd_proyecto_2026.Properties.Resources.resources
+D:\bd proyecto 2026\obj\Debug\net8.0-windows\bd_proyecto_2026.VueloForm.resources
+D:\bd proyecto 2026\obj\Debug\net8.0-windows\bd proyecto 2026.csproj.GenerateResource.cache
+D:\bd proyecto 2026\obj\Debug\net8.0-windows\bd proyecto 2026.GeneratedMSBuildEditorConfig.editorconfig
+D:\bd proyecto 2026\obj\Debug\net8.0-windows\bd proyecto 2026.AssemblyInfoInputs.cache
+D:\bd proyecto 2026\obj\Debug\net8.0-windows\bd proyecto 2026.AssemblyInfo.cs
+D:\bd proyecto 2026\obj\Debug\net8.0-windows\bd proyecto 2026.csproj.CoreCompileInputs.cache
+D:\bd proyecto 2026\obj\Debug\net8.0-windows\bd proye.2002ECAB.Up2Date
+D:\bd proyecto 2026\obj\Debug\net8.0-windows\bd proyecto 2026.dll
+D:\bd proyecto 2026\obj\Debug\net8.0-windows\refint\bd proyecto 2026.dll
+D:\bd proyecto 2026\obj\Debug\net8.0-windows\bd proyecto 2026.pdb
+D:\bd proyecto 2026\bin\Debug\net8.0-windows\bd proyecto 2026.deps.json
+D:\bd proyecto 2026\bin\Debug\net8.0-windows\bd proyecto 2026.runtimeconfig.json
+D:\bd proyecto 2026\bin\Debug\net8.0-windows\bd proyecto 2026.dll
+D:\bd proyecto 2026\bin\Debug\net8.0-windows\bd proyecto 2026.pdb
+D:\bd proyecto 2026\obj\Debug\net8.0-windows\bd proyecto 2026.genruntimeconfig.cache
+D:\bd proyecto 2026\obj\Debug\net8.0-windows\ref\bd proyecto 2026.dll
